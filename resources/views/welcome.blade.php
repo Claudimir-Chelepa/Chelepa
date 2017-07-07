@@ -9,7 +9,7 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
         <!-- Styles -->
         <style>
             html, body {
@@ -79,7 +79,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel Chelepa
+                    <button type="button" class="btn btn-primary btn-lg btn-block">Block level button</button>
+                    <button type="button" class="btn btn-default btn-lg btn-block">Block level button</button>
                 </div>
 
                 <div class="links">
@@ -91,5 +93,6 @@
                 </div>
             </div>
         </div>
+        <script src="/js/bootstrap.min.js"></script>
     </body>
 </html>
